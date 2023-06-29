@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 26 10:14:42 2017
 
-@author: 
+@author: Pallu Thapa
 """
 """ Condensed 2 fluids, lower in Poiseuille flow
 no pressure jump across interface
